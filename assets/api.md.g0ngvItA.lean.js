@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as o,R as c}from"./chunks/framework.4SL9xGU4.js";const h=JSON.parse('{"title":"PrismTexture插件开发文档（暂废）","description":"","frontmatter":{},"headers":[],"relativePath":"api.md","filePath":"api.md"}'),i={name:"api.md"},l=c("",33),t=[l];function d(s,n,r,p,u,v){return a(),o("div",null,t)}const g=e(i,[["render",d]]);export{h as __pageData,g as default};
