@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as l,R as i}from"./chunks/framework.4SL9xGU4.js";const P=JSON.parse('{"title":"使用教程","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),t={name:"guide.md"},o=i("",10),r=[o];function d(n,s,h,c,u,_){return e(),l("div",null,r)}const m=a(t,[["render",d]]);export{P as __pageData,m as default};
